@@ -6,4 +6,4 @@
 | Command | Description |
 | --- | --- |
 | `While` | Va servir à *parcourir une liste* jusqu'a avoir rempli une certaines conditions donnée |
-| `git diff` | Show file differences that **haven't been** staged |
+| `Foreach` | En programmation informatique, la *boucle foreach* est une instruction de flux de contrôle permettant de parcourir les *éléments d'une collection*. foreach est généralement utilisé à la place d'une instruction de boucle for standard. |
