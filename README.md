@@ -7,3 +7,11 @@
 | --- | --- |
 | `While` | Va servir à *parcourir une liste* jusqu'a avoir rempli une certaines conditions donnée |
 | `Foreach` | En programmation informatique, la *boucle foreach* est une instruction de flux de contrôle permettant de parcourir les *éléments d'une collection*. foreach est généralement utilisé à la place d'une instruction de boucle for standard. |
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
