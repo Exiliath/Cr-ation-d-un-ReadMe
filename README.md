@@ -5,5 +5,5 @@
 
 | Command | Description |
 | --- | --- |
-| `git status` | List all *new or modified* files |
+| `While` | Va servir à *parcourir une liste* jusqu'a avoir rempli une certaines conditions donnée |
 | `git diff` | Show file differences that **haven't been** staged |
